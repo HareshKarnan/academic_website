@@ -5,7 +5,7 @@ title: Haresh Karnan
 superuser: true
 
 # Role/position
-role: PhD student in Reinforcement Learning, AI and Robotics working with Peter Stone at the Learning Agents Research Group
+role: PhD student in Reinforcement Learning, AI and Robotics
 
 # Organizations/Affiliations
 organizations:
