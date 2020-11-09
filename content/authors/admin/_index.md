@@ -16,10 +16,10 @@ organizations:
 bio: My research interests include Reinforcement Learning, Deep Learning, Robotics, Sim-to-Real, Robot Localization and Imitation Learning.
 
 interests:
-- Artificial Intelligence
 - Reinforcement Learning
 - Computer Vision
 - Deep Learning
+- Artificial Intelligence
 - Robotics
 
 education:
@@ -58,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "haresh.miriyala@utexas.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
